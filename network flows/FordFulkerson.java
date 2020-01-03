@@ -3,10 +3,6 @@ import java.lang.reflect.Array;
 import java.security.spec.ECGenParameterSpec;
 import java.util.*;
 
-/**
- * Kriten Peng 260782511
- * collaborate Celeste Chen
- */
 
 
 public class FordFulkerson {
