@@ -2,13 +2,6 @@ import java.util.*;
 import java.io.*;
 
 
-
-
-/**
- *  *
- *  * Kristen Peng 260782511
- *  * collaborate wiith Grace Wu
- */
 public class Multiply1 {
 
     private static int randomInt(int size) {
