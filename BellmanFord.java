@@ -1,7 +1,4 @@
-/**
- * Kriten Peng 260782511
- * collaborate Celeste Chen
- */
+
 public class BellmanFord{
 
 	
