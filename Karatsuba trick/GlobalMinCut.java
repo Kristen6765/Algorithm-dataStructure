@@ -3,16 +3,6 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Random;
 
-/****************************
- *
- * COMP251 template file
- *
- * Assignment 4
- *
- * Kristen Peng 260782511
- * collaborate wiith Grace Wu
- *
- *****************************/
 
 public class GlobalMinCut {
 
