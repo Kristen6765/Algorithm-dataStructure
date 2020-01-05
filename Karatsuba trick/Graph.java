@@ -1,19 +1,6 @@
 import java.io.*;
 import java.util.*;
 
-/****************************
- *
- * COMP251 template file
- *
- * Assignment 4
- *  COMP251 template file
- *  *
- *  * Assignment 4
- *  *
- *  * Kristen Peng 260782511
- *  * collaborate wiith Grace Wu
- *
- *****************************/
 
 class Edge {
 
